@@ -1,2 +1,2 @@
 # audio-model
-clapping audio model
+noise model
